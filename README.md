@@ -1,14 +1,15 @@
-# **Unfinished ??working title**
+# **Unfinished**
 
-#### Author: **_Jessica Hvozdovich, Ethan Firpo, Christopher Huber, Brevin Cronk_**
+#### Authors: **_Jessica Hvozdovich, Ethan Firpo, Christopher Huber, Brevin Cronk_**
 #### June 18, 2020
 
 ### Description
 
-_This application demonstrates the building of an API with C#/.NET Core. The Park Lookup API catalogs national and state park data, with a few fantastical locations sprinkled in as well. It has full CRUD functionality that can be accessed in a user-friendly Swagger interface._
+_This is a 2D game built using the Unity Engine. You play as a ghost who is summoned by characters to help them find the secret amuelet. Gameplay consists of moving through different levels following clues and solving puzzles to reveal the truth! This was our fir st game ever built from start._
 
 ### Instructions for use:
-???
+Go to where we host our website at ---.
+Or alternatevely you can clone the game and run it on the Unity Editor.
 
 ### Known Bugs
 
@@ -26,12 +27,18 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 * Git and GitHub
 
 ### User Story
+<details>
+<summary> Click to See User Story</summary>
 User wants to play a cute but spooky story driven game?
 User likes to browse Steam's "new" and "free" categories.
 User is feeling in a gamblin' mood.
+</details>
 
 
 ### Specs
+<details>
+<summary>Expand to see the Specifications for the Project.</summary>
+
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
 | **User can move player** | User Input:"Up arrow" | Output: “Player moves up with up animation” |
@@ -41,11 +48,24 @@ User is feeling in a gamblin' mood.
 | **Game has home screen** | User Input:"Load game" | Output: “Title screen” |
 | **Game has ending scenes** | User Input:"Run into enemy" | Output: “Bad end scene” |
 | **Game has ambient music** | User Input:"Start game" | Output: “Music plays in loop” |
-
-
 | **Cutscene plays after inital room entry to prompt player's actions** | User Input:"Enter room" | Output: "Scene with twins and dialog boxes" |
 | **User can pick up items and add them to inventory** | User Input:"Click "space" near book" | Output: “Book added to inventory” |
 | **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
+| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
+| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
+| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
+
+</details>
+
+### Screenshots
+<details>
+<summary> Click here to see Screenshots.</summary>
+<img src="./unfinished/assets/img/1.png">
+<img src="./unfinished/assets/img/2.png">
+<img src="./unfinished/assets/img/3.png">
+</details>
+
+
 
 ### Stretch Goals
 * Leveling system
