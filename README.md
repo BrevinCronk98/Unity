@@ -29,9 +29,12 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 ### User Story
 <details>
 <summary> Click to See User Story</summary>
-User wants to play a cute but spooky story driven game?
-User likes to browse Steam's "new" and "free" categories.
-User is feeling in a gamblin' mood.
+
+* User wants to play a cute but spooky story driven game?
+* User likes to browse Steam's "new" and "free" categories.
+* User is feeling in a spooky detective game.
+* User wants to be able to Flow through the levels seamlessly
+
 </details>
 
 
@@ -50,19 +53,22 @@ User is feeling in a gamblin' mood.
 | **Game has ambient music** | User Input:"Start game" | Output: “Music plays in loop” |
 | **Cutscene plays after inital room entry to prompt player's actions** | User Input:"Enter room" | Output: "Scene with twins and dialog boxes" |
 | **User can pick up items and add them to inventory** | User Input:"Click "space" near book" | Output: “Book added to inventory” |
-| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
-| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
-| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
-| **User can use inventory items to unlock puzzles** | User Input:"Click "space" near bookshelf" | Output: “Book added to bookshelf” |
 
 </details>
 
 ### Screenshots
 <details>
 <summary> Click here to see Screenshots.</summary>
-![alt text}(/unfinished/assets/img/1.png)
-<img src="./unfinished/assets/img/2.png">
-<img src="./unfinished/assets/img/3.png">
+
+#### This is a Preview of One of the Rooms Featured in This Game.
+<img src="./assets/img/1.png">
+
+#### This is a Preview of the Great Hall in our Game!
+<img src="./assets/img/2.png">
+
+#### This is a Preview of Our Main Menu!
+<img src="./assets/img/3.png">
+
 </details>
 
 
