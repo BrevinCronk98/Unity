@@ -60,7 +60,7 @@ User is feeling in a gamblin' mood.
 ### Screenshots
 <details>
 <summary> Click here to see Screenshots.</summary>
-<img src="./unfinished/assets/img/1.png">
+![alt text}(/unfinished/assets/img/1.png)
 <img src="./unfinished/assets/img/2.png">
 <img src="./unfinished/assets/img/3.png">
 </details>
